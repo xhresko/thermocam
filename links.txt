@@ -1,0 +1,9 @@
+http://www.cheap-thermocam.net/old-version/software/
+
+www.centralnexus.com/thermal/ThermalCamera-2013.01.19.10.00.zip
+
+http://mbed.org/cookbook/Servo
+
+http://mbed.org/users/4180_1/notebook/mlx90614-i2c-infrared-thermometer/
+
+http://www.centralnexus.com/thermal/
