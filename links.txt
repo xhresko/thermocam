@@ -13,3 +13,5 @@ http://www.floba.info/Files/ALowCostThermographicCamera/
 http://www.fpv.lt/lang/en/2013/03/diy-thermal-camera/
 
 http://forum.arduino.cc/index.php/topic,21317.0.html
+
+https://github.com/scottsievert/IRcamera/blob/master/Readme.md
