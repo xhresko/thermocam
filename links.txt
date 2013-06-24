@@ -15,3 +15,5 @@ http://www.fpv.lt/lang/en/2013/03/diy-thermal-camera/
 http://forum.arduino.cc/index.php/topic,21317.0.html
 
 https://github.com/scottsievert/IRcamera/blob/master/Readme.md
+
+http://diffusionht.blogspot.cz/2011/03/thermal-cam-arduino.html
