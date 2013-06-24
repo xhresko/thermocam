@@ -7,3 +7,9 @@ http://mbed.org/cookbook/Servo
 http://mbed.org/users/4180_1/notebook/mlx90614-i2c-infrared-thermometer/
 
 http://www.centralnexus.com/thermal/
+
+http://www.floba.info/Files/ALowCostThermographicCamera/
+
+http://www.fpv.lt/lang/en/2013/03/diy-thermal-camera/
+
+http://forum.arduino.cc/index.php/topic,21317.0.html
