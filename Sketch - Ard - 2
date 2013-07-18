@@ -1,0 +1,41 @@
+/*
+Adafruit Arduino - Lesson 14. Sweep
+*/
+
+#include <Servo.h> 
+
+int servoPin = 9;
+ 
+Servo servoh;
+Servo servov;  
+
+ 
+int angle = 0;   // servo position in degrees 
+ 
+void setup() 
+{ 
+  servoh.attach(10);
+   servov.attach(11); 
+ 
+} 
+ 
+ 
+void loop() 
+{ 
+  // scan from 0 to 180 degrees
+  for(angle = 0; angle < 90; angle++)  
+  {                                  
+    servoh.write(angle);               
+    delay(10);  
+    //servov.write(angle);               
+    //delay(50);
+  } 
+  // now scan back from 180 to 0 degrees
+  for(angle = 90; angle > 0; angle--)    
+  {                                
+    servoh.write(angle);           
+    delay(50);
+    servov.write(angle);           
+    delay(10);       
+  } 
+} 
